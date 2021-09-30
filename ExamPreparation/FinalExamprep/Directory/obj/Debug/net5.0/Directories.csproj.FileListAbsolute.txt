@@ -1,0 +1,15 @@
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.exe
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.deps.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.runtimeconfig.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.runtimeconfig.dev.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\ref\Directories.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\bin\Debug\net5.0\Directories.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.AssemblyInfoInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.AssemblyInfo.cs
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.csproj.CoreCompileInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\ref\Directories.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\Directory\obj\Debug\net5.0\Directories.genruntimeconfig.cache

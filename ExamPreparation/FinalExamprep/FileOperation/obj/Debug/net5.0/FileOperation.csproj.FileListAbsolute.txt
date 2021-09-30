@@ -1,0 +1,16 @@
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.exe
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.deps.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.runtimeconfig.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.runtimeconfig.dev.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\ref\FileOperation.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\bin\Debug\net5.0\FileOperation.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.csproj.AssemblyReference.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.AssemblyInfoInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.AssemblyInfo.cs
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.csproj.CoreCompileInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\ref\FileOperation.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\FileOperation\obj\Debug\net5.0\FileOperation.genruntimeconfig.cache

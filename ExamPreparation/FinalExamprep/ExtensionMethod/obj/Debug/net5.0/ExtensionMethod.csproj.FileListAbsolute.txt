@@ -1,0 +1,15 @@
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.exe
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.deps.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.runtimeconfig.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.runtimeconfig.dev.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ref\ExtensionMethod.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\bin\Debug\net5.0\ExtensionMethod.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.AssemblyInfoInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.AssemblyInfo.cs
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ref\ExtensionMethod.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\ExtensionMethod\obj\Debug\net5.0\ExtensionMethod.genruntimeconfig.cache

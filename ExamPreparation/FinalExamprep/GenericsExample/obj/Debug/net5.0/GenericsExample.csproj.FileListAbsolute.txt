@@ -1,0 +1,16 @@
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.exe
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.deps.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.runtimeconfig.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.runtimeconfig.dev.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\ref\GenericsExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\bin\Debug\net5.0\GenericsExample.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.csproj.AssemblyReference.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.AssemblyInfoInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.AssemblyInfo.cs
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.csproj.CoreCompileInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\ref\GenericsExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\GenericsExample\obj\Debug\net5.0\GenericsExample.genruntimeconfig.cache

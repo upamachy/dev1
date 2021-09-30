@@ -1,0 +1,16 @@
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.exe
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.deps.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.runtimeconfig.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.runtimeconfig.dev.json
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\ref\LinqExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\bin\Debug\net5.0\LinqExample.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.csproj.AssemblyReference.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.AssemblyInfoInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.AssemblyInfo.cs
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.csproj.CoreCompileInputs.cache
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\ref\LinqExample.dll
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.pdb
+F:\upama\dev1\ExamPreparation\FinalExamprep\LinqExample\obj\Debug\net5.0\LinqExample.genruntimeconfig.cache
